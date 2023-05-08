@@ -159,6 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Fleix Owusu - [Github](https://github.com/Brymo07)
 
+Wolleys Migaya - [Github](https://github.com/Wolleys)
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
